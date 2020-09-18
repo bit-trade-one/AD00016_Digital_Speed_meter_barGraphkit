@@ -12,6 +12,8 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/assemblydisk/ad00016/)!
 
+## 組立マニュアルは[こちら](https://github.com/bit-trade-one/AD00016_Digital_Speed_meter_barGraphkit/blob/master/tacho_manual.pdf)!
+
 ## 製品仕様
 
  -   製品名：デジタルスピードメータ LEDバーグラフ化キット
