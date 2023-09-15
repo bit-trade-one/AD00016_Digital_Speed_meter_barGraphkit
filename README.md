@@ -17,6 +17,8 @@
 
 ## 組立マニュアルは[こちら](https://github.com/bit-trade-one/AD00016_Digital_Speed_meter_barGraphkit/blob/master/tacho_manual.pdf)!
 
+## [回路図](https://github.com/bit-trade-one/AD00016_Digital_Speed_meter_barGraphkit/tree/master/Schematics)
+
 ## 製品仕様
 
  -   製品名：デジタルスピードメータ LEDバーグラフ化キット
